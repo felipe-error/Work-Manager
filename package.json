@@ -1,0 +1,21 @@
+{
+	"name": "workmanager",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"type": "module",
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"chroma-js": "^3.1.2",
+		"lazyness": "^1.2.0",
+		"ndarray": "^1.0.19",
+		"nextgen-events": "^1.5.3",
+		"readline-sync": "^1.4.10",
+		"terminal-kit": "^3.1.1"
+	}
+}
